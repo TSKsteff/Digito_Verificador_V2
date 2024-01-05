@@ -1,0 +1,3 @@
+C:/Users/sktoussaint/Desktop/C++/calculoDigitoVerificador/CalculoDigitoVerificador/cmake-build-debug/CMakeFiles/CalculoDigitoVerificador.dir
+C:/Users/sktoussaint/Desktop/C++/calculoDigitoVerificador/CalculoDigitoVerificador/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sktoussaint/Desktop/C++/calculoDigitoVerificador/CalculoDigitoVerificador/cmake-build-debug/CMakeFiles/rebuild_cache.dir
